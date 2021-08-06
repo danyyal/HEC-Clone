@@ -1,0 +1,80 @@
+body{
+    overflow-x: hidden;
+}
+.login-size{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.link-1{
+    text-decoration: none;
+    color: white;
+}
+.link-2{
+    color: white;
+    text-decoration: underline;
+}
+.link-1:hover{
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+}
+.link-2:hover{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+.nav-styler a{
+    color: grey;
+}
+.nav-styler a:hover{
+    color: rgb(0, 89, 255);
+    text-decoration: underline;
+}
+.c{
+    opacity: 0.5;
+}
+.bg-color{
+    background-color: #353E46;
+    /* color: white; */
+    /* height: 30vh; */
+}
+.bg-color a{
+    color: white;
+    text-decoration: none;
+}
+
+.bg-color p{
+    color: white;
+    
+}
+.bg-color a:hover{
+    text-decoration: underline;
+}
+.twit{
+    padding: 0.9rem;
+}
+.fac:hover{
+    /* color: white !important; */
+    background-color: #638fd3 !important;
+}
+.twit:hover{
+    /* color: white !important; */
+    background-color: #638fd3 !important;
+}
+@media (max-width:767px){
+    .sme{
+        margin: auto !important;
+    }
+    .texter{
+        text-align: center;
+    }
+    .texter div{
+        margin-top: 2rem;
+    }
+    .texter img{
+        margin-top: 2rem;
+    }
+    .centerer{
+        justify-content: center;
+    }
+}

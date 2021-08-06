@@ -1,0 +1,115 @@
+.nav-up .searcher .in{
+    width:50%;
+    margin: 0 auto;
+}
+.nav-up .searcher h6:hover,.nav-up .searcher h5:hover,.nav-up .searcher h4:hover{
+    color: cadetblue;
+    cursor: pointer;
+}
+.nav-up .log img{
+    width: 7rem;
+    height: 7rem;
+    margin: auto 0;
+}
+
+.nav-up .log h3{
+    margin:auto 0;
+}
+.w svg{
+    height : 1.3rem;
+    width  : 2rem;
+}
+
+.w > svg, .w {
+    outline: none;
+}
+
+.w:hover,.search-color:hover{
+    background-color: honeydew !important;
+}
+.w:active,.search-color:active{
+    background-color: honeydew !important;
+}
+.one a,.two a,.three a,.four a,.five a,.six a,.seven a,.eight a{
+    color: white !important;
+}
+.one:hover{
+    background-color: #5cb85c;
+}
+.two:hover{
+    background-color: #d9534f;
+}
+.three:hover{
+    background-color: #5bc0de;
+}
+.four:hover{
+    background-color: #f0ad4e;
+}
+.five:hover{
+    background-color: #292b2c;
+}
+.six:hover{
+    background-color: #d9534f;
+}
+.seven:hover{
+    background-color: #0275d8;
+}
+.eight:hover{
+    background-color: #f0ad4e;
+}
+
+
+
+/* footer */
+.up ul li a,.low ul li a{
+    text-decoration: none;
+    color: gray;
+
+}
+.up h3,.low h3,.low h5{
+    text-decoration: none;
+    color: white;
+}
+
+.sizer{
+    width: 8rem;
+    height: 2rem;
+}
+.sizer1{
+    width: 2.2rem;
+    height: 2.4rem;
+}
+.x{
+    background-color: honeydew !important ;
+    margin-bottom: 0.3rem ;
+    padding-right: 0.1rem;
+}
+.x svg{
+    height: 0.9rem;
+    width: 0.9rem;
+    background-color: honeydew !important ;
+}
+.x:hover,.x svg:hover{
+    background-color: honeydew !important;
+}
+.x:active,.x svg:active{
+    background-color: honeydew !important;
+    outline: none;
+}
+.last-icon svg{
+    background-color: rgb(0, 119, 255);
+    height: 3rem;
+    width: 3rem;
+    color: white;
+    padding:0.5rem
+}
+.last-icon svg:hover{
+    background-color: rgb(44, 73, 236);
+}
+footer ul li a:hover{
+    color: white;
+}
+.over{
+    overflow: hidden;
+}
+
